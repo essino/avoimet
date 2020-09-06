@@ -1,0 +1,11 @@
+{"tyontekijat":
+[
+  {"firstName":"Mauno", "lastName":"Ahonen", "address":"Hämeentie 1, Tre",
+    "phone": "0123", "phoneWork": ""},
+  {"firstName":"Matti", "lastName":"Näsä", "address":"Koskikatu 1, Tre",
+    "phone": "4567", "phoneWork": ""},
+  {"firstName":"Raimo", "lastName":"Vormisto", "address":"Ilveksenkuja 1, Tre",
+    "phone": "8910", "phoneWork": "5791"},
+  {"firstName":"Timo", "lastName":"Silakka", "address":"Tapparankaari 1, Tre",
+    "phone": "1234", "phoneWork": "3579"}
+]}
